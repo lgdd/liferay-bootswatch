@@ -1,4 +1,4 @@
-# Liferay StartBootstrap
+# Liferay Bootswatch
 
 Liferay 7.0 Themes based on Bootstrap 3 Themes from [bootswatch.com](https://bootswatch.com/3/).
 
